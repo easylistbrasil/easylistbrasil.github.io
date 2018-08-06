@@ -4,6 +4,10 @@ add:          Adicionar ao bloqueador de an&uacute;ncios
 url:          https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt
 repository:   https://github.com/easylistbrasil/easylistbrasil
 
+#download
+adblock:      https://adblockplus.org/
+ublock:       /ublock.html
+
 # Setup
 title:        EasyList Brasil
 description:  Easylist Brasil é um filtro para adblock que remove anúncios em sites do Brasil
