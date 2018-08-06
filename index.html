@@ -7,7 +7,7 @@ title: {{ site.name }}
   <h2>{{ site.title }}</h2>
   <ul class="posts">
     {% for post in site.content %}
-      <li><span>{{ site.view }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <span><a href="https://{{ site.url }}">{{ site.view }}</a></span> &raquo;
     {% endfor %}
   </ul>
 </div>
