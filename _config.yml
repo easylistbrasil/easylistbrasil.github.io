@@ -4,6 +4,8 @@ branch:       filtro
 file:         easylistbrasil.txt
 view:         Visualizar
 add:          Adicionar ao Bloqueador de an&uacute;ncios
+#host
+url:          github.com
 
 # Setup
 title:        EasyList Brasil
