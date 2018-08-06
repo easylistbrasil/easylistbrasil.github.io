@@ -7,7 +7,7 @@ title: {{ site.name }}
   <h2>{{ site.title }}</h2>
   <ul class="posts">
     {% for post in site.posts %}
-      <span><a href="https://{{ site.url }}">{{ site.view }}</a></span> &raquo;
+      <span><a href="{{ site.url }}">{{ site.view }}</a></span>
     {% endfor %}
   </ul>
 </div>
