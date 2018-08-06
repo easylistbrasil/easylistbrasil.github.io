@@ -2,7 +2,7 @@
 title:        EasyList Brasil
 tagline:      Filtro para seu bloqueador de an&uacute;ncios
 baseurl:      ""
-paginate:     2
+paginate:     1
 locale:       "pt-BR"
 
 # About/contact
