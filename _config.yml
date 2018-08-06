@@ -1,3 +1,10 @@
+#filter info
+repository:   easylistbrasil
+branch:       filtro
+file:         easylistbrasil.txt
+view:         Visualizar
+add:          Adicionar ao Bloqueador de an&uacute;ncios
+
 # Setup
 title:        EasyList Brasil
 tagline:      Filtro para seu bloqueador de an&uacute;ncios
