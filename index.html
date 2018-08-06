@@ -4,10 +4,10 @@ title: {{ site.name }}
 ---
 
 <div id="home">
-  <h3>{{ site.title }}</h3>
+  <h2>{{ site.title }}</h2>
   <ul class="posts">
     {% for post in site.posts %}
-      <span><a href="{{ site.url }}">{{ site.view }}</a></span>
+      <span><a href="{{ site.url }}">{{ site.view }}</a></span> &ensp; <span><a href="abp:subscribe?location={{ site.url }}">{{ site.add }}</a></span>
     {% endfor %}
   </ul>
 </div>
