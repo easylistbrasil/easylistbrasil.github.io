@@ -1,11 +1,7 @@
 #filter info
-repository:   easylistbrasil
-branch:       filtro
-file:         easylistbrasil.txt
 view:         Visualizar
 add:          Adicionar ao Bloqueador de an&uacute;ncios
-#host
-url:          github.com
+url:          https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt
 
 # Setup
 title:        EasyList Brasil
