@@ -1,5 +1,6 @@
 #filter info
 view:         Visualizar
+view-menu:    Visualizar no Github
 add:          Adicionar ao bloqueador de an&uacute;ncios
 issue:        Reportar an&uacute;ncio
 url:          https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt
@@ -7,8 +8,10 @@ repository:   https://github.com/easylistbrasil/easylistbrasil
 issue-url:    https://github.com/easylistbrasil/easylistbrasil/issues/new
 
 #download
-adblock:      https://adblockplus.org/
-ublock:       /ublock.html
+adblock-menu  Download Adblock Plus
+adblock-url:  https://adblockplus.org/
+ublock-menu   Download uBlock Origin
+ublock-url:   /ublock.html
 
 # Setup
 title:        EasyList Brasil
