@@ -9,9 +9,9 @@ issue-url:    https://github.com/easylistbrasil/easylistbrasil/issues/new
 
 #download
 adblock-menu:  Download Adblock Plus
-adblock-url:  https://adblockplus.org/
+adblock-url:   https://adblockplus.org/
 ublock-menu:   Download uBlock Origin
-ublock-url:   /ublock.html
+ublock-url:    /ublock.html
 
 # Setup
 title:        EasyList Brasil
