@@ -5,6 +5,6 @@ date:   2016-02-12 17:50:00
 categories: main
 ---
 
-{% for https://github.com/easylistbrasil/easylistbrasil/commits %}
-  * [{{ commits.name }}]({{ page.path }})
+{% for repository in site.github.public_repositories %}
+  * [{{ remote-commit1-sha }}]({{ page.path }})
 {% endfor %}
