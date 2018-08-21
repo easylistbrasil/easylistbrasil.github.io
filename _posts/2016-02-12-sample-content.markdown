@@ -6,5 +6,5 @@ categories: main
 ---
 
 {% for repository in site.github.public_repositories %}
-  * [{{ repository.name/commits }}]({{ repository.html_url }})
+  * [{{ repository.name }}]({{ page.path }})
 {% endfor %}
