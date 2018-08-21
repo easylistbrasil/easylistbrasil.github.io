@@ -5,6 +5,6 @@ date:   2016-02-12 17:50:00
 categories: main
 ---
 
-{% for repository in https://github.com/easylistbrasil/easylistbrasil/commits %}
-  * [{{ repository.name }}]({{ page.path }})
+{% for https://github.com/easylistbrasil/easylistbrasil/commits %}
+  * [{{ commits.name }}]({{ page.path }})
 {% endfor %}
