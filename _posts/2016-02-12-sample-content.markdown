@@ -6,6 +6,6 @@ categories: main
 ---
 
 {% for commit in site.github.public_repositories %}
-  * [{{ commit.name }}]({{ repository.html_url }})
+  * [{{ commit.name }}]({{ commit.html_url }})
 {% endfor %}
 
