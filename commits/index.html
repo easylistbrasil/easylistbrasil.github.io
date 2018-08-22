@@ -1,27 +1,16 @@
-<!doctype html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>github.commits.widget example</title>
-  <meta name="description" content="github.commits.widget example">
-  <meta name="author" content="alexander beletsky">
-</head>
-
-<body>
-  <div id="container">
-    <div id="main">
-		<div id="github-commits"></div>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="./dist/javascripts/bundle.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="./dist/stylesheets/screen.css">
+  </head>
+  <body>
+    <div id="latest-commits-widget">
+        <div id="latest-commits-header">
+          <i class="fa fa-github gh-icon"></i>
+          <h4>Latest Commits</h4>
+        </div>
+        <ul id="commit-history"></ul>
     </div>
-  </div> 
-  
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
-  <script src="js/github.commits.widget.js"></script>
-  
-  <script>
-	$(function() {
-		$('#github-commits').githubInfoWidget(
-			{ user: 'alexanderbeletsky', repo: 'github-commits-widget', branch: 'master', last: 15, limitMessageTo: 30 });
-	});
-  </script>  
-</body>
+  </body>
 </html>
