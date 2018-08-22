@@ -6,4 +6,5 @@ categories: main
 ---
 
 {% include ../easylistbrasil//easylistbrasil/commits %}
+teste
 
