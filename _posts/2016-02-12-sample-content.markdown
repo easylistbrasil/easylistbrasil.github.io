@@ -9,5 +9,5 @@ categories: main
   * [{{ remote-commit1-sha }}]({{ page.path }})
 {% endfor %}
 
-<iframe src="http://easylistbrasil.github.com/github-latest-commits-widget/?username=easylistbrasil&repo=easylistbrasil&limit=5"
+<iframe src="http://tylerlh.github.io/github-latest-commits-widget/?username=easylistbrasil&repo=easylistbrasil&limit=5"
   allowtransparency="true" frameborder="0" scrolling="no" width="502px" height="252px"></iframe>
