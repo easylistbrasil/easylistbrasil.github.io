@@ -1,9 +1,5 @@
 =========================
 
-Show the latest commit activity on your repo, keeping the community updated and giving users more incentive to contribute to your project with this widget.
-
-Inspired by https://github.com/mdo/github-buttons
-
 https://easylistbrasil.github.io/commits/?username=easylistbrasil&repo=easylistbrasil&limit=5
 
 Usage
