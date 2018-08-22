@@ -5,5 +5,5 @@ date:   2016-02-12 17:50:00
 categories: main
 ---
 
-{% include ublock.html %}
+{% include_relative ../ublock.html %}
 
