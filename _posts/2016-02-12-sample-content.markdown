@@ -5,5 +5,5 @@ date:   2016-02-12 17:50:00
 categories: main
 ---
 {% for commits in site.repository %}
-{{ commits.name }}
+{{ site.name }}
 {% endfor %}
