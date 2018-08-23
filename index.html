@@ -6,8 +6,7 @@ title: {{ site.name }}
 <div id="home">
   <h2>{{ site.title }}</h2>
   <ul class="posts">
-    {% for post in site.posts %}
+   
       <span><a href="{{ site.url }}">{{ site.view }}</a></span> ou <span><a href="abp:subscribe?location={{ site.url }}&title={{ site.title }}">{{ site.add }}</a></span>
-    {% endfor %}
-  </ul>
+    </ul>
 </div>
