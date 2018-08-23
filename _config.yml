@@ -26,7 +26,8 @@ title:        EasyList Brasil
 description:  Easylist Brasil é um filtro para adblock que remove anúncios em sites do Brasil
 keywords:     Easylist, Easylist Brasil, subscription adblock, filtro adblock, remover propaganda em sites de filmes
 tagline:      Filtro para seu bloqueador de an&uacute;ncios
-baseurl:      "/"
+baseurl:      ""
+home:         /index.html
 paginate:     1
 locale:       "pt-BR"
 
