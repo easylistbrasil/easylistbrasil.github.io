@@ -8,10 +8,10 @@ categories: main
 ## Bloqueando anúncios no android:
 Bloquear anúncios no android é bem simples, basta seguir estas dicas:
  - Abra o Google Chrome no Android
- - Digite na barra de endereço: bit.ly/webfirefox
+ - Digite na barra de endereço: **bit.ly/webfirefox**
  - Ao abrir a play store, instale o navegador firefox
  - Se na primeira vez que abrir ficar uma tela em branco, basta fechar e abrir novamente
- - Agora no firefox na barra de endereço digite: bit.ly/ubofirefox
+ - Agora no firefox na barra de endereço digite: **bit.ly/ubofirefox**
  - Clique em adicionar ao firefox
  - Agora na barra de endereço do firefox digite: easylistbrasil.github.io
  - Clique em adicionar ao bloqueador de anúncios
@@ -23,5 +23,5 @@ Bloquear anúncios no android é bem simples, basta seguir estas dicas:
   - a combinação firefox + uBlock Origin apenas remove anúncios de sites pelo firefox.
  
  Remover anúncios de app:
- - Para remover anúncios de app é nescessário um app chamado Blokada, basta acessar o site blokada.org e baixar o arquivo apk
+ - Para remover anúncios de app é nescessário um app chamado Blokada, basta acessar o site **blokada.org** e baixar o arquivo apk
  - Para fazer a instalação do Blokada é necessário ativar instalação de fontes desconhecidas nas configurações de segurança.
