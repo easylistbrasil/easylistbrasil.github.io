@@ -13,7 +13,7 @@ Bloquear anúncios no android é bem simples, basta seguir estas dicas:
  - Se na primeira vez que abrir ficar uma tela em branco, basta fechar e abrir novamente
  - Agora no firefox na barra de endereço digite: **bit.ly/ubofirefox**
  - Clique em adicionar ao firefox
- - Agora na barra de endereço do firefox digite: easylistbrasil.github.io
+ - Agora na barra de endereço do firefox digite: **easylistbrasil.github.io**
  - Clique em adicionar ao bloqueador de anúncios
  - O uBlock Origin irá perguntar se deseja adicionar, basta clicar em ok.
  
