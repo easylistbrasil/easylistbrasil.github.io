@@ -11,6 +11,9 @@ issue-url:    https://github.com/easylistbrasil/easylistbrasil/issues/new
 repo-log:     easylistbrasil
 user-log:     easylistbrasil
 
+#posts
+androidpost:  https://easylistbrasil.github.io/main/2018/08/22/android.html
+
 #download
 adblock-menu:  Download Adblock Plus
 adblock-url:   https://adblockplus.org/
