@@ -15,7 +15,8 @@ repo-log:     easylistbrasil
 user-log:     easylistbrasil
 
 #posts
-androidpost:  /main/2018/08/22/android.html
+androidname:  Android
+androidlink:  /main/2018/08/22/android.html
 
 #download
 adblock-menu:  Download Adblock Plus
