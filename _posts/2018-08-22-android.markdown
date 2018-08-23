@@ -20,7 +20,9 @@ Bloquear anúncios no android é bem simples, basta seguir estas dicas:
  Vantagens do uBlock Origin:
   - Menos consumo de memória RAM e CPU (ideal para android)
   - Bloqueia script inline (interno)
-  - a combinação firefox + uBlock Origin apenas remove anúncios de sites pelo firefox.
+  - Suporta regras do adblock e adblock plus
+  - Possui filtros do própio uBlock Origin
+  - A combinação firefox + uBlock Origin apenas remove anúncios de sites pelo firefox.
  
  Remover anúncios de app:
  - Para remover anúncios de app é nescessário um app chamado Blokada, basta acessar o site **blokada.org** e baixar o arquivo apk
