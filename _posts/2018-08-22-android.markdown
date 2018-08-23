@@ -15,7 +15,8 @@ Bloquear anúncios no android é bem simples, basta seguir estas dicas:
  - Clique em adicionar ao firefox
  - Agora na barra de endereço do firefox digite: easylistbrasil.github.io
  - Clique em adicionar ao bloqueador de anúncios
- - O uBlock Origin irá perguntar se deseja adicionar, basta clicar em ok
+ - O uBlock Origin irá perguntar se deseja adicionar, basta clicar em ok.
+ 
  Vantagens do uBlock Origin:
   - Menos consumo de memória RAM e CPU (ideal para android)
   - Bloqueia script inline (interno)
