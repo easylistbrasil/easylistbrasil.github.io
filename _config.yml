@@ -12,7 +12,7 @@ repo-log:     easylistbrasil
 user-log:     easylistbrasil
 
 #posts
-androidpost:  https://easylistbrasil.github.io/main/2018/08/22/android.html
+androidpost:  /main/2018/08/22/android.html
 
 #download
 adblock-menu:  Download Adblock Plus
