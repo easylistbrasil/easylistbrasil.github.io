@@ -7,6 +7,9 @@
 ### Teste de Encurtadores
 
 [shorte.st](http://ceesty.com/w2VqB4)
+
 [encurta.net](https://enrt.eu/yecJP)
+
 [adf.ly](http://aclabink.com/4MbQ)
+
 [adf.ly](http://uclaut.net/6Mg)
