@@ -21,7 +21,7 @@ Bloquear anúncios no android é bem simples, basta seguir estas dicas:
   - Menos consumo de memória RAM e CPU (ideal para android)
   - Bloqueia script inline (interno)
   - Suporta regras do adblock e adblock plus
-  - Possui filtros do própio uBlock Origin
+  - Possui filtros do próprio uBlock Origin
   - Alguns sites funcionam melhor no modo desktop, principalmente de vídeos
   - A combinação firefox + uBlock Origin apenas remove anúncios de sites pelo firefox.
  
